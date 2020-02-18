@@ -9,7 +9,6 @@ C:\Users\anfranci\source\repos\ananddotnetcore30\bin\Debug\netcoreapp3.1\ananddo
 C:\Users\anfranci\source\repos\ananddotnetcore30\bin\Debug\netcoreapp3.1\ananddotnetcore30.pdb
 C:\Users\anfranci\source\repos\ananddotnetcore30\bin\Debug\netcoreapp3.1\ananddotnetcore30.Views.dll
 C:\Users\anfranci\source\repos\ananddotnetcore30\bin\Debug\netcoreapp3.1\ananddotnetcore30.Views.pdb
-C:\Users\anfranci\source\repos\ananddotnetcore30\obj\Debug\netcoreapp3.1\ananddotnetcore30.csprojAssemblyReference.cache
 C:\Users\anfranci\source\repos\ananddotnetcore30\obj\Debug\netcoreapp3.1\staticwebassets\ananddotnetcore30.StaticWebAssets.Manifest.cache
 C:\Users\anfranci\source\repos\ananddotnetcore30\obj\Debug\netcoreapp3.1\staticwebassets\ananddotnetcore30.StaticWebAssets.xml
 C:\Users\anfranci\source\repos\ananddotnetcore30\obj\Debug\netcoreapp3.1\ananddotnetcore30.MvcApplicationPartsAssemblyInfo.cache
@@ -33,3 +32,4 @@ C:\Users\anfranci\source\repos\ananddotnetcore30\obj\Debug\netcoreapp3.1\ananddo
 C:\Users\anfranci\source\repos\ananddotnetcore30\obj\Debug\netcoreapp3.1\ananddotnetcore30.dll
 C:\Users\anfranci\source\repos\ananddotnetcore30\obj\Debug\netcoreapp3.1\ananddotnetcore30.pdb
 C:\Users\anfranci\source\repos\ananddotnetcore30\obj\Debug\netcoreapp3.1\ananddotnetcore30.csproj.CopyComplete
+C:\Users\anfranci\source\repos\ananddotnetcore30\obj\Debug\netcoreapp3.1\ananddotnetcore30.csprojAssemblyReference.cache
